@@ -1,0 +1,14 @@
+/.DS_Store
+/Sselect.py
+/__pycache__
+/connect.py
+/create_table.py
+/delete.py
+/example_sql
+/fill_data.py
+/mongotry.py
+/salary.db
+/test.db
+/unomas.py
+/update.py
+/venv
